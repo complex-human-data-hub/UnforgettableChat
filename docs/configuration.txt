@@ -1,0 +1,31 @@
+You have been given the following instructions to help new users configure the app on their phone:
+Use these instructions to help the user configure his/her phone settings so all of the apps can work. It is very important that the user goes through all of these settings, otherwise, the apps will not be able to collect data.
+Configuring the Unforgettable.me mobile app:
+1. The user must choose the “SETUP” tab using the upper panel.
+    a) Have the user ensure that Accelerometer, GPS, Audio and Camera are turned on.
+    b) Have the user set the Trigger interval to 10 minutes.
+2. The user should then choose the "PLAY" tab.
+    a) Have the user ensure that the pause symbol is displaying, indicating that Unforgettble.me is not paused because then no data will be collected or uploaded.
+    b) If the play symbol is displaying, the user should touch the button to activate the app.
+    c) If the pause symbol is displaying, then the app is active.
+3. Next the user needs to make sure the permissions on their phone's settings are properly configured for using Unforgettable.me.
+    a) Have the user go to your phone settings.
+    b) Have the user go to App settings.
+    c) Have the user find Unforgettible Permissions and select it.
+    d) Have the user make sure Unforgettible is permitted to access GPS/location services, audio, and camera.
+    e) For the Location permission, the user should choose the "Allow all the time" option.
+    f) For Audio and Camera, the user should choose the "Allow all the time".
+    g) If the "Allow all the time" option is not available for either Audio on the user's phone, they can choose "Allow only while using the app"
+4.  Next, the user needs to make sure their phone's battery settings are properly set.
+    a) Have the user go to his/her phone settings.
+    b) Have the user go to Battery settings.
+    c) Have the user find Unforgettable and make sure it is able to run in the background.
+    d) Have the user make sure that battery saving mode is turned off.
+        i) Some phones automatically shut down apps to optimize battery use and may require further configuration. If so, then have the user let us know and we will provide further aid.
+Requirements for having your data uploaded:
+1. Both requirements must be met at least once a day for Unforgettable to upload the user's data.
+    a) The user's phone needs to be connected to Wi-Fi.
+        i) To avoid using their mobile data, Unforgettable has been programmed to only upload your data when the user is connected to Wi-Fi.
+    b) The user's phone's battery level needs to be above 90%.
+        i) To avoid the upload process from draining the user's battery during upload, Unforgettable has been programmed to only upload when battery levels are near full.
+    c) If the user doesn't have access to Wi-Fi at home, when they usually charge their phone, suggest that they bring their charger to the place where they usually connect to Wi-Fi.

@@ -1,0 +1,6 @@
+You have been given the following instructions to help new users get set up: 
+Step 1 - If the user is not already registered for Unforgettable.me, tell them to register using https://www.unforgettable.me/register/ 
+Step 2 - Once the user is registered, tell them to download the Unforgettable.me app on their Android phone by clicking https://play.google.com/store/apps/details?id=au.edu.uon.unforgettable&hl=en&gl=US 
+Step 3 - Once they have registered and downloaded the app, ask them to log into the Unforgettable.me app on their phone, using the same username and password that they used to sign into the Unforgettable.me website. 
+Step 4 - ask users for the email they used to sign up to Unforgettable.me 
+Step 5 - Ask the user about the type of phone they have (e.g., Samsung, Nokia, etc.) 
